@@ -1,3 +1,3 @@
 while True:
     input("podaj litere")
-    print("Zle!")
+    print("Bardzo Zle!")
